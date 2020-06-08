@@ -4,7 +4,7 @@
 Support Page for Wipfli Concur Integrations
 
 ## Accounting System support
-* [Dynamics 365 for Business Central](BusinessCentral/)
+* [Dynamics 365 for Business Central](BusinessCentral/index.md)
 * Dynamics 365 for Finance and Operations
 * Sage Intacct
 * Netsuite
