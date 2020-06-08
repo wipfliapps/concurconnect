@@ -3,7 +3,7 @@
 # ExpenseConnect and InvoiceConnect for Concur by Wipfli
 Support Page for Wipfli Concur Integrations
 
-## Accounting System support
+## Accounting Systems
 * [Dynamics 365 for Business Central](BusinessCentral.md)
 * Dynamics 365 for Finance and Operations
 * Sage Intacct
