@@ -1,7 +1,7 @@
 <link type="text/css" rel="stylesheet" href="site.css" />
 
 # ExpenseConnect and InvoiceConnect for Concur by Wipfli
-Support Page for [Wipfli Concur Integrations](https://www.wipfli.com/software-solutions/wipfli-marketplace/concur-connectors)
+Support Page for [Wipfli Concur Integrations](https://www.wipfli.com/software-solutions/wipfli-marketplace/concur-connectors). Also, check out our [demo videos](https://www.youtube.com/playlist?list=PLlLMIqpIYXob4aLhF15ThWF_HJd8bdT8K).
 
 ## Accounting Systems
 * [Dynamics 365 for Business Central](BusinessCentral.md)
@@ -17,7 +17,3 @@ Typical support response time is within one (1) business day from the time of th
 * [Support Portal](https://wdp.wipfli.com/)
 * <productsupport@wipfli.com>
 * 703-860-6945
-
-## Demo Videos
-* [ExpenseConnect](https://www.youtube.com/playlist?list=PLlLMIqpIYXob4aLhF15ThWF_HJd8bdT8K)
-* [InvoiceConnect](https://www.youtube.com/playlist?list=PLlLMIqpIYXob4aLhF15ThWF_HJd8bdT8K)
