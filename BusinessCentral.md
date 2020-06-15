@@ -5,4 +5,4 @@
 
 ### ExpenseConnect
 * [FAQ](BusinessCentral/Wipfli-ExpenseConnect-BC-FAQ.docx)
-* [Setup Guide](BusinessCentral/ExpenseConnect-BusinessCentral-SetupGuide.pdf)
+* [Setup Guide](BusinessCentral/ExpenseConnect-BusinessCentral-Setup-Guide.pdf)
