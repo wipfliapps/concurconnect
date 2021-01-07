@@ -6,3 +6,7 @@
 ### ExpenseConnect
 * [FAQ](BusinessCentral/Wipfli-ExpenseConnect-BC-FAQ.docx)
 * [Setup Guide](BusinessCentral/ExpenseConnect-BusinessCentral-Setup-Guide.pdf)
+
+### InvoiceConnect
+* [FAQ](BusinessCentral/Wipfli-InvoiceConnect-BC-FAQ.docx)
+* [Setup Guide](BusinessCentral/InvoiceConnect-BusinessCentral-Setup-Guide.pdf)
